@@ -15,3 +15,12 @@ Key Factors Influencing Price Predictions
 Predictive Modeling Techniques  
 
 Modern systems use Machine Learning algorithms (like Linear Regression) and historical data to forecast trends. These models analyze factors like competitor pricing and special events (festivals, concerts) to estimate if a fare will rise or drop.
+
+Research Questions
+
+The aim of our study is to answer the below research questions:
+a) Does price vary with Airlines?
+b) How is the price affected when tickets are bought in just 1 or 2 days before departure?
+c) Does ticket price change based on the departure time and arrival time?
+d) How the price changes with change in Source and Destination?
+e) How does the ticket price vary between Economy and Business class?
