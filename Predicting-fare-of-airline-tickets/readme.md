@@ -23,4 +23,9 @@ a) Does price vary with Airlines?
 b) How is the price affected when tickets are bought in just 1 or 2 days before departure?
 c) Does ticket price change based on the departure time and arrival time?
 d) How the price changes with change in Source and Destination?
-e) How does the ticket price vary between Economy and Business class?
+e) How does the ticket price vary between Economy and Business class?  
+
+DATA COLLECTION AND METHODOLOGY
+
+Octoparse scraping tool was used to extract data from the website. Data was collected in two parts: one for economy class tickets and another for business class tickets. A total of 300261 distinct flight booking options was extracted from the site. Data was collected for 50 days, from February 11th to March 31st, 2022.
+Data source was secondary data and was collected from Ease my trip website.
