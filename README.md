@@ -35,6 +35,8 @@ Dataset yang digunakan bervariasi tergantung pada studi kasusnya, namun secara u
     * `Matplotlib` & `Seaborn` (Visualisasi)
     * `Scikit-Learn` (Machine Learning Modeling)
     * `XGBoost` / `LightGBM` (jika ada)
+    * `Faker` (Generate Dummy Dataset)
+
 
 ## 🔄 Alur Kerja
 1. **Exploratory Data Analysis (EDA):** Memahami korelasi dan distribusi data.
