@@ -36,6 +36,7 @@ Dataset yang digunakan bervariasi tergantung pada studi kasusnya, namun secara u
     * `Scikit-Learn` (Machine Learning Modeling)
     * `XGBoost` / `LightGBM` (jika ada)
     * `Faker` (Generate Dummy Dataset)
+* **Format Dataset:** csv dan PostgreSQL
 
 
 ## 🔄 Alur Kerja
