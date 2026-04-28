@@ -1,5 +1,5 @@
 # MachineLearning-PredictionAnalysis
-Machine Learning Study Case that use Prediction in their Algorithm  
+Machine Learning Study Case that use Prediction in their Algorithm.  
 
 # Machine Learning - Prediction Analysis 🤖
 
