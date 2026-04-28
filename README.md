@@ -27,6 +27,7 @@ Tujuan utama dari repositori ini adalah untuk mengeksplorasi berbagai algoritma 
 Dataset yang digunakan bervariasi tergantung pada studi kasusnya, namun secara umum mencakup:
 * Data historis yang memerlukan preprocessing.
 * Berbagai fitur (variabel independen) yang digunakan untuk melatih model.
+* Data Master dan data transaksi. 
 
 ## 🛠️ Teknologi yang Digunakan
 * **Bahasa Pemrograman:** Python
